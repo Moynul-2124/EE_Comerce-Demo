@@ -3,7 +3,7 @@
 
 
 
-  
+
 
 
 // app/api/auth/[...nextauth]/route.js
@@ -12,7 +12,7 @@ import GoogleProvider from "next-auth/providers/google";
 import GitHubProvider from "next-auth/providers/github";
 
 const handler = NextAuth({
-  providers: [
+  providers: [  
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID || "",
       clientSecret: process.env.GOOGLE_CLIENT_SECRET || "",
