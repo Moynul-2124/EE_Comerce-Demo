@@ -1,0 +1,394 @@
+{
+  "homeInfo": {
+    "id": "home-001",
+    "title": "Bekay Bakery",
+    "description": "Delicious cakes, pastries, and baked goods made fresh daily."
+  },
+  "hero": {
+    "sectionTitle": "Freshly Baked Happiness",
+    "subtext": "Explore our handcrafted treats",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2629820503/display_1500/stock-photo-empty-wooden-table-top-with-blurred-bakery-background-2629820503.jpg",
+    "cta": {
+      "text": "Shop Now",
+      "link": "/collections/all"
+    }
+  },
+  "products": {
+    "sectionTitle": "Featured Products",
+    "items": [
+      {
+        "id": "product-001",
+        "name": "Chocolate Fudge Cake",
+        "price": "$25.00",
+        "rating": 4.8,
+        "stock": "In Stock",
+        "image": "https://www.shutterstock.com/shutterstock/photos/1967210347/display_1500/stock-photo-bakery-products-and-desserts-for-food-backgroud-1967210347.jpg",
+        "tags": [
+          "cake",
+          "chocolate",
+          "best-seller"
+        ]
+      },
+      {
+        "id": "product-002",
+        "name": "Strawberry Cheesecake",
+        "price": "$22.00",
+        "rating": 4.6,
+        "stock": "Limited",
+        "image": "https://www.shutterstock.com/shutterstock/photos/174148901/display_1500/stock-photo-fancy-gourmet-chocolate-hazelnut-pirouline-wafer-cookie-174148901.jpg",
+        "tags": [
+          "cheesecake",
+          "fruit",
+          "classic"
+        ]
+      },
+      {
+        "id": "product-003",
+        "name": "Croissant Pack",
+        "price": "$12.00",
+        "rating": 4.9,
+        "stock": "In Stock",
+        "image": "https://www.shutterstock.com/shutterstock/photos/2350787879/display_1500/stock-photo-different-tasty-freshly-baked-pastries-on-wooden-table-space-for-text-2350787879.jpg",
+        "tags": [
+          "pastry",
+          "breakfast",
+          "pack"
+        ]
+      },
+      {
+        "id": "product-004",
+        "name": "Lemon Tart",
+        "price": "$18.00",
+        "rating": 4.7,
+        "stock": "New Arrival",
+        "image": "https://www.shutterstock.com/shutterstock/photos/2478895225/display_1500/stock-photo-concept-of-taking-or-grabbing-food-with-hands-feminine-mexican-hands-traditional-mexican-bakery-2478895225.jpg",
+        "tags": [
+          "tart",
+          "citrus",
+          "new"
+        ]
+      },
+      {
+        "id": "product-005",
+        "name": "Vanilla Cupcake Box",
+        "price": "$15.00",
+        "rating": 4.5,
+        "stock": "In Stock",
+        "image": "https://www.shutterstock.com/shutterstock/photos/2672097811/display_1500/stock-photo-asian-female-small-coffee-shop-owner-is-decorating-a-cake-at-her-bakery-and-cafe-2672097811.jpg",
+        "tags": [
+          "cupcake",
+          "vanilla",
+          "party"
+        ]
+      },
+      {
+        "id": "product-006",
+        "name": "Raspberry Macarons",
+        "price": "$20.00",
+        "rating": 4.6,
+        "stock": "Limited",
+        "image": "https://www.shutterstock.com/shutterstock/photos/2672097803/display_1500/stock-photo-senior-asian-man-father-and-young-asian-woman-daughter-barista-smiling-and-standing-in-front-of-2672097803.jpg",
+        "tags": [
+          "macaron",
+          "raspberry",
+          "french"
+        ]
+      },
+      {
+        "id": "product-007",
+        "name": "Mini Eclairs",
+        "price": "$16.00",
+        "rating": 4.4,
+        "stock": "In Stock",
+        "image": "https://www.shutterstock.com/shutterstock/photos/1947985258/display_1500/stock-photo-two-asian-barista-or-coffee-maker-man-and-woman-stand-with-arm-crossed-or-confidence-action-also-1947985258.jpg",
+        "tags": [
+          "eclair",
+          "chocolate",
+          "bite-size"
+        ]
+      },
+      {
+        "id": "product-008",
+        "name": "Blueberry Muffins",
+        "price": "$14.00",
+        "rating": 4.7,
+        "stock": "New Arrival",
+        "image": "https://www.shutterstock.com/shutterstock/photos/1943031472/display_1500/stock-photo-barista-woman-or-coffee-maker-pour-cream-or-ingradiant-to-the-cup-and-stand-beside-of-co-worker-man-1943031472.jpg",
+        "tags": [
+          "muffin",
+          "blueberry",
+          "breakfast"
+        ]
+      },
+      {
+        "id": "product-009",
+        "name": "Almond Biscotti",
+        "price": "$10.00",
+        "rating": 4.3,
+        "stock": "In Stock",
+        "image": "https://www.shutterstock.com/shutterstock/photos/1937169730/display_1500/stock-photo-almond-biscotti-on-a-white-background-1937169730.jpg",
+        "tags": [
+          "biscotti",
+          "almond",
+          "crunchy"
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "sectionTitle": "From the Oven",
+    "posts": [
+      {
+        "id": "blog-001",
+        "title": "5 Secrets to Perfect Pastry",
+        "author": "Chef Lina",
+        "price": "$10.00",
+        "date": "2025-11-01",
+        "tags": "pastry",
+        "previewImage": "https://www.shutterstock.com/shutterstock/photos/508027432/display_1500/stock-photo-halloween-decoration-sweets-shallow-focus-candy-bar-for-kids-birthday-party-508027432.jpg",
+        "excerpt": "Discover the golden rules for flaky, buttery perfection in every bite.",
+        "details": "With over 600 million blogs on the internet, youve likely encountered one or two blogs—youre even on one right now. But you may still wonder what exactly is a blog? How does it differ from a website? Why does every business seem to have one? You may even ask yourself, how can I start my own blog?,In short, many individuals and businesses create a blog to share their ideas and expertise as well as boost their online presence. This article will answer your most pressing blogging questions and help you understand how and why blogs succeed, plus show how you can utilize them."
+      },
+      {
+        "id": "blog-002",
+        "title": "Behind the Scenes: Our Morning Bake",
+        "author": "Team Bekay",
+        "price": "$20.00",
+        "date": "2025-10-25",
+        "tags": "bakery life",
+        "previewImage": "https://www.shutterstock.com/shutterstock/photos/2664566501/display_1500/stock-photo-various-loaves-of-fresh-bread-cooling-on-metal-racks-in-bakery-interior-warm-lighting-and-rustic-2664566501.jpg",
+        "excerpt": "Take a peek into our early morning rituals and how we prep for the day.",
+        "details": "As the publishing world has evolved, and more of it has moved online, blogs have come to occupy a central position in this digital content world. Blogs are a source of knowledge, opinion and concrete advice. While not yet posed to replace journalism as an art form, people increasingly look to trusted blogs to find answers to their questions, or to learn how to do something. What makes blogs especially engaging is their informal and conversational style, making them feel approachable and relatable to readers. Another defining feature of blogs is how they organize content, with posts arranged in reverse chronological order. This means that the newest posts always appear first, keeping the most relevant or timely information front and center."
+      },
+      {
+        "id": "blog-003",
+        "title": "Why Lemon Tart Is Trending",
+        "author": "Chef Omar",
+        "price": "$50.00",
+        "date": "2025-11-05",
+        "tags": "dessert",
+        "previewImage": "https://www.shutterstock.com/shutterstock/photos/2458535827/display_1500/stock-photo-fresh-slice-of-bread-on-wooden-cutting-board-on-the-white-background-white-bread-slices-and-crumbs-2458535827.jpg",
+        "excerpt": "Zesty, sweet, and photogenic—lemon tarts are stealing the spotlight.",
+        "details": "A variety of people use blogs, including individuals, businesses and organizations — both commercial and nonprofit. Bloggers range from hobbyists and influencers to professionals and experts in specific fields. Most blog users have a blog to share their personal experiences, opinions or creative work. Businesses and companies use blogs for marketing, customer engagement and SEO traffic. Educational institutions and nonprofits may also start a blog to share their research, updates and resources.Bloggers can be individuals starting a personal blog or they can be, usually, marketing employees of a business or organization. Bloggers can use a blog to write on anything, common types of blogs include fitness, travel, finance and business, technology and politics. "
+      },
+      {
+        "id": "blog-004",
+        "title": "Why Lemon Tart Is Trending",
+        "author": "Chef Omar",
+        "price": "$50.00",
+        "date": "2025-11-05",
+        "tags": "dessert",
+        "previewImage": "https://www.shutterstock.com/shutterstock/photos/2651067547/display_1500/stock-photo-a-blurry-bakery-bread-neatly-arranged-on-the-shop-shelves-modern-theme-2651067547.jpg",
+        "excerpt": "Zesty, sweet, and photogenic—lemon tarts are stealing the spotlight.",
+        "details": "A variety of people use blogs, including individuals, businesses and organizations — both commercial and nonprofit. Bloggers range from hobbyists and influencers to professionals and experts in specific fields. Most blog users have a blog to share their personal experiences, opinions or creative work. Businesses and companies use blogs for marketing, customer engagement and SEO traffic. Educational institutions and nonprofits may also start a blog to share their research, updates and resources.Bloggers can be individuals starting a personal blog or they can be, usually, marketing employees of a business or organization. Bloggers can use a blog to write on anything, common types of blogs include fitness, travel, finance and business, technology and politics. "
+      }
+    ]
+  },
+  "footer": {
+    "contact": {
+      "email": "info@bekaybakery.com",
+      "phone": "+1 555-123-4567"
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/bekaybakery",
+      "instagram": "https://instagram.com/bekaybakery",
+      "tiktok": "https://tiktok.com/@bekaybakery"
+    },
+    "newsletter": {
+      "cta": "Subscribe for sweet deals",
+      "placeholder": "Enter your email",
+      "buttonText": "Subscribe"
+    }
+  },
+  "store": {
+    "id": "store_001",
+    "name": "Bekay Bakery",
+    "description": "Freshly baked artisan bread, pastries, and cakes daily."
+  },
+  "header": {
+    "id": "header_001",
+    "logo": "https://example.com/images/logo.png",
+    "menu": [
+      {
+        "id": "nav_001",
+        "name": "Home",
+        "link": "/"
+      },
+      {
+        "id": "nav_002",
+        "name": "Shop All",
+        "link": "/collections/all"
+      },
+      {
+        "id": "nav_003",
+        "name": "Bread",
+        "link": "/collections/bread"
+      },
+      {
+        "id": "nav_004",
+        "name": "Pastries",
+        "link": "/collections/pastries"
+      },
+      {
+        "id": "nav_005",
+        "name": "Cakes",
+        "link": "/collections/cakes"
+      },
+      {
+        "id": "nav_006",
+        "name": "Contact",
+        "link": "/pages/contact"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "id": "cat_001",
+      "title": "Bread",
+      "description": "Sourdough, whole grain, rye, and baguettes.",
+      "image": "https://www.shutterstock.com/shutterstock/photos/1702060108/display_1500/stock-photo-cooking-organic-bread-at-home-due-to-quarantine-breads-in-slices-while-baking-in-the-oven-and-1702060108.jpg"
+    },
+    {
+      "id": "cat_002",
+      "title": "Pastries",
+      "description": "Croissants, danishes, and puff pastries rye, and baguettes.",
+      "image": "https://www.shutterstock.com/shutterstock/photos/2358848729/display_1500/stock-photo-a-freshly-baked-loaf-of-artisanal-bread-with-a-light-dusting-of-flour-on-its-golden-brown-crust-2358848729.jpg"
+    },
+    {
+      "id": "cat_003",
+      "title": "Cakes",
+      "description": "Custom and ready-made cakes for every occasion.",
+      "image": "https://www.shutterstock.com/shutterstock/photos/2562997577/display_1500/stock-photo-different-freshly-baked-bread-loafs-on-grey-table-closeup-2562997577.jpg "
+    },
+    {
+      "id": "cat_004",
+      "title": "Cookies",
+      "description": "Classic and gourmet cookies baked fresh daily.",
+      "image": "https://www.shutterstock.com/shutterstock/photos/2599860365/display_1500/stock-photo-crispy-and-rustic-round-loaf-bread-baking-in-with-grain-bread-in-the-countryside-2599860365.jpg"
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner_001",
+      "title": "Autumn Specials",
+      "subtitle": "Pumpkin Spice & Everything Nice",
+      "image": "https://www.shutterstock.com/shutterstock/photos/2559700675/display_1500/stock-photo-rustic-sourdough-bread-with-cut-slices-on-a-wooden-table-on-black-background-with-free-space-for-2559700675.jpg",
+      "link": "/collections/autumn-specials"
+    },
+    {
+      "id": "banner_002",
+      "title": "Free Shipping",
+      "subtitle": "On all orders over $50",
+      "image": "https://www.shutterstock.com/shutterstock/photos/1832777353/display_1500/stock-photo-bread-traditional-sourdough-bread-cut-into-slices-on-a-rustic-wooden-background-concept-of-1832777353.jpg",
+      "link": "/collections/all"
+    }
+  ],
+  "shopproducts": [
+    {
+      "id": "prod_001",
+      "title": "Classic Sourdough Loaf",
+      "price": 8.99,
+      "image": "https://example.com/images/products/sourdough.jpg",
+      "category": "Bread"
+    },
+    {
+      "id": "prod_002",
+      "title": "Chocolate Croissant",
+      "price": 3.5,
+      "image": "https://example.com/images/products/choc_croissant.jpg",
+      "category": "Pastries"
+    },
+    {
+      "id": "prod_003",
+      "title": "Vanilla Celebration Cake",
+      "price": 29.99,
+      "image": "https://example.com/images/products/vanilla_cake.jpg",
+      "category": "Cakes"
+    },
+    {
+      "id": "prod_004",
+      "title": "Rustic Whole Wheat Bread",
+      "price": 7.49,
+      "image": "https://example.com/images/products/wholewheat.jpg",
+      "category": "Bread"
+    },
+    {
+      "id": "prod_005",
+      "title": "Butter Cookies Pack",
+      "price": 5.99,
+      "image": "https://example.com/images/products/cookies.jpg",
+      "category": "Cookies"
+    }
+  ],
+  "newsletter": {
+    "id": "newsletter_001",
+    "title": "Join Our Bread Club",
+    "description": "Sign up to receive weekly deals and fresh updates from our bakery.",
+    "background_image": "https://example.com/images/sections/newsletter_bg.jpg",
+    "button_text": "Subscribe Now"
+  },
+  "shopfooter": {
+    "id": "footer_001",
+    "columns": [
+      {
+        "id": "footer_col_001",
+        "title": "Customer Service",
+        "links": [
+          {
+            "id": "f_link_001",
+            "name": "FAQ",
+            "link": "/pages/faq"
+          },
+          {
+            "id": "f_link_002",
+            "name": "Shipping Info",
+            "link": "/pages/shipping"
+          },
+          {
+            "id": "f_link_003",
+            "name": "Returns",
+            "link": "/pages/returns"
+          }
+        ]
+      },
+      {
+        "id": "footer_col_002",
+        "title": "About Us",
+        "links": [
+          {
+            "id": "f_link_004",
+            "name": "Our Story",
+            "link": "/pages/about"
+          },
+          {
+            "id": "f_link_005",
+            "name": "Careers",
+            "link": "/pages/careers"
+          }
+        ]
+      },
+      {
+        "id": "footer_col_003",
+        "title": "Follow Us",
+        "links": [
+          {
+            "id": "f_link_006",
+            "name": "Instagram",
+            "link": "https://instagram.com"
+          },
+          {
+            "id": "f_link_007",
+            "name": "Facebook",
+            "link": "https://facebook.com"
+          },
+          {
+            "id": "f_link_008",
+            "name": "TikTok",
+            "link": "https://tiktok.com"
+          }
+        ]
+      }
+    ],
+    "copyright": "© 2025 Bekay Bakery. All rights reserved."
+  }
+}

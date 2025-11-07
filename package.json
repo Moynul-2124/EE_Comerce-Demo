@@ -1,0 +1,36 @@
+{
+  "name": "chuditormare",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "server": "json-server --watch db.json --port 3004",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@heroui/react": "^2.8.5",
+    "@reduxjs/toolkit": "^2.10.1",
+    "framer-motion": "^12.23.24",
+    "json-server": "^1.0.0-beta.3",
+    "next": "15.5.5",
+    "next-auth": "^4.24.13",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-hot-toast": "^2.6.0",
+    "react-icons": "^5.5.0",
+    "react-redux": "^9.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.31.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "daisyui": "^5.3.6",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.5",
+    "tailwindcss": "^4"
+  }
+}
